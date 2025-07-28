@@ -1,2 +1,4 @@
-pytelegrambotapi
+pyTelegramBotAPI==4.10.0
 requests
+flask
+gunicorn
